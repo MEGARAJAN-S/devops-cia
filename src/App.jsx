@@ -8,6 +8,7 @@ function App() {
       <p>My React app is running from Jenkins!</p>
       <h1>Megarajan S IoT A 22011102054</h1>
       <h2>Change Check 01</h2>
+      <h2>Change Check 02</h2>
     </div>
   )
 }
