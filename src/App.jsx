@@ -10,6 +10,7 @@ function App() {
       <h2>Change Check 01</h2>
       <h2>Change Check 02</h2>
       <h2>Change Check 03</h2>
+      <h2>Change Check 04</h2>
     </div>
   )
 }
