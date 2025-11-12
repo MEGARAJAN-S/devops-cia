@@ -12,7 +12,7 @@ pipeline {
         CONTAINER_NAME = "devops-project"
         APP_PORT = "80"
         EMAIL = "megarajanmegan@gmail.com"
-        SERVER_IP = "13.127.98.88"
+        SERVER_IP = "13.127.144.4"
     }
 
     triggers {
